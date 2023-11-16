@@ -1,0 +1,30 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card {
+    width: 250px;
+    margin: 15px auto 25px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.card input {
+    width: 100%;
+    padding: .2em;
+}
+
+.btn {
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border: none;
+    background-color: #cacaca;
+    padding: .2em;
+}
